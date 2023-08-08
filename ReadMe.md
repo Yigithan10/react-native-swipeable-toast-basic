@@ -32,6 +32,10 @@ My build versions:
 
     const toastRef = useRef(null);
 
+    <SafeAreaView style={{flex: 1}}>
+        <SwipeableToast ref={toastRef} />
+    </SafeAreaView>
+
     <Button
         title="Show Swipeable Toast Basic"
         onPress={() => {
@@ -62,9 +66,7 @@ My build versions:
                 toastErrorTextColor: "#D9100A",
             });
         }}
-    />;
-
-    <SwipeableToast ref={toastRef} />;
+    />
 ```
 
 ## API
