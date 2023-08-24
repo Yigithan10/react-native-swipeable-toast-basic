@@ -6,7 +6,7 @@ My build versions:
 ## Installation
 
 ```bash
-  npm install react-native-swipeable-toast-basic
+npm install react-native-swipeable-toast-basic
 ```
 
 ## Doc
