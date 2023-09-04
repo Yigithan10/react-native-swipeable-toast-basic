@@ -1,0 +1,32 @@
+{
+  "name": "react-native-swipeable-toast-basic",
+  "version": "1.2.0",
+  "description": "React Native Swipeable Toast Basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yigithan10",
+  "license": "ISC",
+  "repository": "https://github.com/Yigithan10/react-native-swipeable-toast-basic",
+  "dependencies": {
+    "react-native-gesture-handler": "*",
+    "react-native-reanimated": "*"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-gesture-handler": "*",
+    "react-native-reanimated": "*"
+  },
+  "keywords": [
+    "react native",
+    "android",
+    "ios",
+    "react",
+    "native",
+    "swipeable",
+    "toast",
+    "reanimated"
+  ]
+}
